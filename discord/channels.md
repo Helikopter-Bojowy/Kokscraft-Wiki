@@ -41,3 +41,5 @@
 
 ## Informacje o kanałach prywatnych
 [#kanal-priv-komendy](https://discord.com/channels/773691439598141502/859851995056701440) -> Kanał zawierający informacje dotyczące kanałów prywatnych.
+
+
